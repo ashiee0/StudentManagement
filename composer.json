@@ -1,0 +1,16 @@
+{
+    "name": "claro/student-management",
+    "description": "Basic SM",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Claro\\StudentManagement\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Claro"
+        }
+    ],
+    "require": {}
+}
