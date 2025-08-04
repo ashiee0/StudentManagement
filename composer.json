@@ -1,6 +1,6 @@
 {
     "name": "claro/student-management",
-    "description": "Basic SM",
+    "description": "Basic coding",
     "license": "MIT",
     "autoload": {
         "psr-4": {
@@ -9,7 +9,7 @@
     },
     "authors": [
         {
-            "name": "Claro"
+            "name": "Asheralyn P."
         }
     ],
     "require": {}
